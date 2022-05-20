@@ -143,7 +143,7 @@ textarea{resize:vertical;overflow-y:auto}
 .header-all{width: 100%;background: #2D2D2D none repeat scroll 0% 0%;position: fixed;z-index: 900;top: 0px;left: 0px;}
 .top{height:50px;position: relative;z-index:2;}
 .logo{display:block;float:left;padding:0 10px 0 5px;height:50px;}
-.logo .logobg{display:block;float;left;height:50px;width:140px;background: transparent url("https://pic.rmb.bdstatic.com/bjh/bccdfca68f31e7c560ca017036ade443.png");cursor: pointer;}/*修改*/
+.logo .logobg{display:block;float;left;height:50px;width:140px;background: transparent url("../img/logo.png");cursor: pointer;}/*修改*/
 .top-nav{display:inline-block;float:left;}
 .top-nav li{float:left;font-size:16px;line-height:50px;}
 .top-nav li a{color:#d8d8d8;display:block;padding:0 10px;}
